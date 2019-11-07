@@ -58,8 +58,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71"><vh>@path markdown</vh>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
-<v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
+<v t="yen.20170108171733.81"><vh>cp2019</vh>
+<v t="yen.20170108171733.82"><vh>@edit 20191107.md</vh></v>
 </v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
